@@ -7,15 +7,15 @@ With an MSc in Data Science from the University of Michigan and a diverse skill 
 
 👨‍💻 What I Do
 
-Build high-performance APIs and data pipelines (AWS S3, Redshift, Lambda, Glue). 
-Develop AI-powered solutions, including generative chatbots using Amazon Bedrock. 
-Optimize distributed systems and databases, enhancing efficiency and security.
+* Build high-performance APIs and data pipelines (AWS S3, Redshift, Lambda, Glue). 
+* Develop AI-powered solutions, including generative chatbots using Amazon Bedrock. 
+* Optimize distributed systems and databases, enhancing efficiency and security.
 
 🏆 Achievements
 
-Delivered 4000+ lines of production code in 4 months at a startup.
-Increased runtime efficiency by 13% at AWS via Profile Guided Optimization.
-Built ETL pipelines improving reporting quality and data validation.
+* Delivered 4000+ lines of production code in 4 months at a startup.
+* Increased runtime efficiency by 13% at AWS via Profile Guided Optimization.
+* Built ETL pipelines improving reporting quality and data validation.
 
 🔧 Technologies I Love
 AWS | Python | Golang | SQL | Java | C++ | Terraform | Docker | Kubernetes
