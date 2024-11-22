@@ -28,4 +28,4 @@ Let’s build something incredible together! Check out my projects or reach out!
 - 💬 Ask me about tech, places to travel, graphic design techniques, vlog making, books to read, etc.!
 - 📫 How to reach me: alisamao0205@gmail.com, phone: 7343538253
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I've never been to Walmart in North America!
+- ⚡ Fun fact: I've never been to Walmart in North America! My profile photo is my parents' dog named Pudding, she's 3 years old!
